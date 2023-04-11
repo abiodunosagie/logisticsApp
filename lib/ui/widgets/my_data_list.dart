@@ -72,7 +72,7 @@ class MyDataList {
       lastUpdatedTime: '1 Hour 50 Minutes ago',
     ),
     MyData(
-      imageUrl: '',
+      imageUrl: 'https://vod.overendstudio.co.za/uploadimages/imperiallogo.png',
       phoneNumber: 09056692354,
       parcelStatus: 'On Transit',
       lastUpdatedTime: '1 Hour 59 Minutes ago',

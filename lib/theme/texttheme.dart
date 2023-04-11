@@ -24,7 +24,7 @@ class KTextTheme {
       color: const Color(
         0xff111111,
       ),
-      fontSize: 26,
+      fontSize: 16,
       fontWeight: FontWeight.bold,
     ),
     //headline4
@@ -32,7 +32,7 @@ class KTextTheme {
       color: const Color(
         0xff111111,
       ),
-      fontSize: 22,
+      fontSize: 12,
       fontWeight: FontWeight.bold,
     ),
     //headline5
@@ -40,13 +40,15 @@ class KTextTheme {
       color: const Color(
         0xff111111,
       ),
-      fontSize: 22,
+      fontSize: 12,
       fontWeight: FontWeight.w500,
     ),
     //headline6
     titleLarge: GoogleFonts.poppins(
-      color: Colors.black,
-      fontSize: 20,
+      color: const Color(
+        0x50333333,
+      ),
+      fontSize: 10,
       fontWeight: FontWeight.w500,
     ),
     //bodytext1
